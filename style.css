@@ -1,0 +1,154 @@
+.left_nav_text{
+   
+    display: flex;
+  
+}
+.right_nav_text{
+ 
+    display: flex;
+  
+}
+.span1{
+ 
+cursor: pointer;
+ margin: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15pt;
+}
+.span2{
+    margin: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15pt;
+    cursor: pointer;
+   
+}
+.icon_nav{
+   
+    width: min-content;
+    margin-left: 300px;
+  
+}
+.nav_conteiner{
+   display: flex;
+   justify-content: center;
+   height: min-content;
+}
+.nav_img{
+    width: min-content;
+}
+.plant{
+    height: 600px;
+    width: 900px;
+    background: #FF9900;
+background:linear-gradient(-73deg, transparent 300px, #FF9900 0);
+    display: flex;
+  position: absolute;
+}
+.txt2{
+
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 45pt;
+width: min-content;
+height: min-content;
+
+}
+.txt{
+    margin-left: 30px;
+    transform: rotate(-90deg);
+  transform-origin: top left;
+margin-top: 300px;
+  text-decoration: underline;
+  font-size: 20pt;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.global_menu{
+   
+   
+    display: flex;
+}
+.big_txt{
+   
+   
+}
+.conteiner{
+}
+.img1{
+    
+    margin-left: 700px;
+}
+.global_plant{
+    display: flex;
+}
+.img2{
+   margin-left: 110px;
+   width: min-content;
+   height: min-content;
+}
+.content{
+    display: flex;
+}
+.abts{
+    font-size: 17pt;
+    margin-left: 200px;
+    margin-top: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fd{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(0, 0, 0, 0.7);
+  
+    font-size: 10pt;
+}
+.txt_cnt{
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.text_fd{
+    width: 450px;
+}
+.spsc{
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 10pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn1{
+    background: #EB3800;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.btn1:hover{
+ border: 1px solid  #EB3800;
+ background-color: white;
+ color: #EB3800;
+}
+.txt_epl{
+    text-align: center;    
+    margin-top: 70px;
+    color: #EB3800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15pt;
+}
+.txt_wres{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.menu{
+    display: flex;
+}
+.mn{
+    margin-top: 50px;
+}
+.cen{
+    color: #EB3800;
+}
+.spn{
+    display: flex;
+    margin-top: 50px;
+}
